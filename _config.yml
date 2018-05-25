@@ -1,0 +1,7 @@
+# Site settings
+title: 탑훈의 프로그래밍 교실
+description: Modern-Blog A Elegant template for Jekyll
+keywords: Modern, Blogging, Fun
+author: teachertophoon
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

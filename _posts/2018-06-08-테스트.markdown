@@ -1,1 +1,21 @@
+---
+title:  "이것은 테스트 입니다."
+subtitle: "테스트 부제목"
+author: "홍길동"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2018-06-08 15:02:00
+---
+
+### 제목1
+내용입니다.1
+
+### 제목2
+내용입니다.2
+
+<div class="responsive-wrap">
+  <!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1F0DQTNPg3YG_By6LMGcgwT3icJ3eMhCiupAZm76CIfE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <!-- Google embed ends -->
+</div>
 
